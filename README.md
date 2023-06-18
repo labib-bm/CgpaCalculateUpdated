@@ -1,4 +1,5 @@
 # CgpaCalculateUpdated
+**About this Project:**
 * CGPA Calculation for a whole semester of a student.
 * Two types of courses included here: Theory and Lab
 * Theory course with 3 credit hours and Lab course with one credit hour.
@@ -15,3 +16,5 @@
   * Lab Project 25
   * Lab Final 40
 * Final CGPA Calculation: (Summation of all course grade points (Credit*Course Grade))/Total Credit Hour
+**Updated from the previous Project:**
+Previous project: https://github.com/labib-bm/CGPA_calculate
