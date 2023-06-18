@@ -16,5 +16,15 @@
   * Lab Project 25
   * Lab Final 40
 * Final CGPA Calculation: (Summation of all course grade points (Credit*Course Grade))/Total Credit Hour
+
 **Updated from the previous Project:**
 Previous project: https://github.com/labib-bm/CGPA_calculate
+
+**Implemented:**
+* Conditional Statement
+* Array
+* String
+* Loop
+* Methods and Constructors
+* Classes
+* Error / Exception Handling
