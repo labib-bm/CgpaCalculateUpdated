@@ -14,3 +14,4 @@
   * Lab Performance 25            Calculation: Average score of 5 Lab performance Task (Every Lab Class has 25 marks in performance)
   * Lab Project 25
   * Lab Final 40
+* Final CGPA Calculation: (Summation of all course grade points (Credit*Course Grade))/Total Credit Hour
